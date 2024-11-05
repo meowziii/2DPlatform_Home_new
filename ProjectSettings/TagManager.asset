@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - soul
+  - Cat
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - bckg
+  - Water
+  - UI
+  - Ground
+  - foreground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 312561325
+    locked: 0
+  - name: 2
+    uniqueID: 2242277083
+    locked: 0
+  - name: 3
+    uniqueID: 2777369305
+    locked: 0
+  - name: 4
+    uniqueID: 1498951329
+    locked: 0
+  - name: layering
+    uniqueID: 1586782239
+    locked: 0
+  - name: backTiles
+    uniqueID: 1615337295
+    locked: 0
+  - name: Player
+    uniqueID: 2874517847
+    locked: 0
+  - name: Tilemap
+    uniqueID: 3786987503
+    locked: 0
